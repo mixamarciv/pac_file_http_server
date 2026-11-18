@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.tree.indent": 14,
+        "rust-analyzer.showUnlinkedFileNotification": false
+    }
+}
